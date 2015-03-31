@@ -33,8 +33,8 @@ public class StackProblem {
 		}
         
 	}
-	static String[] stk;
-	static int n=0;
+	private String[] stk;
+	private int n=0;
 	
 	
 	public StackProblem(int capacity)
