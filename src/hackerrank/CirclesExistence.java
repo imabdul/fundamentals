@@ -39,7 +39,7 @@ public class CirclesExistence {
 	                    }
 	                }
 	            }   //System.out.println(angle);             
-	     //   }
+
 	 
 	        if (Math.abs(angle) >= 360)//might be only greater than
 	            return  "YES";
